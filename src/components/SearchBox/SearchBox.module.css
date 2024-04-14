@@ -1,0 +1,19 @@
+
+.containerSearch{
+    margin: 0 auto 5px;
+}
+.label {
+    margin-top: 0;
+    margin-bottom: 5px;
+    text-align: center;
+   
+
+
+}
+
+.searchInput {
+    width: 320px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
